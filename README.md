@@ -57,8 +57,8 @@ String b = userInput.nextLine();
 Feel free to add a couple more of these, like "How to set up Python on a Mac" or something like that. Keep in mind that this workshop writeup should be brief and shouldn't have more information on it than your workshop presents.
 
 ## Resources for Further Learning
-*freeCodeCamp.org
-*YouTube.com: Programming with Mosh
-*Java API: <https://docs.oracle.com/javase/7/docs/api/>
-*<https://www.codecademy.com/learn/learn-java>
-*<https://stackoverflow.com/>
+* freeCodeCamp.org
+* YouTube.com: Programming with Mosh
+* Java API: <https://docs.oracle.com/javase/7/docs/api/>
+* <https://www.codecademy.com/learn/learn-java>
+* <https://stackoverflow.com/>
