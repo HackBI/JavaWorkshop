@@ -48,6 +48,6 @@ public class GameChallenge
     */
    public static String challengeThree()
    {
-      
+      return "x";
    }
 }
