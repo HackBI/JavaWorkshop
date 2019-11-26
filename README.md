@@ -14,12 +14,9 @@ This workshop addresses math operations, printing from your program, gathering u
 Create a java program, make a method, call a method from main, use Java Scanner
 
 ## Challenges
-Create a java program with a main method.
-Create field variables and a method.
-The method should contain if statements based on a choose your own adventure game.
-Input for the if statements should be based on Java Scanner user input.
-Program should print the outcome of the choose your own adventure.
-
+Easy: (Done during the workshop) The method should contain if statements creating a choose your own adventure game.
+Medium: Create a program that reads in a string and then prints it backwards.
+Hard: Create a program that projects a button. If the cursor hovers over the button, a secret message appears. If the cursor clicks the button, make something happen.
 
 ## Cheat Sheet
 ```java
