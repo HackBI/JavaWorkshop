@@ -56,3 +56,6 @@ String b = userInput.nextLine();
 * Java API: <https://docs.oracle.com/javase/7/docs/api/>
 * <https://www.codecademy.com/learn/learn-java>
 * <https://stackoverflow.com/>
+* Udemy: https://www.udemy.com/course/java-tutorial/
+* GeeksforGeeks: https://www.geeksforgeeks.org/java/
+* Workshop Leader: franceska.padillacoo@bishopireton.org
